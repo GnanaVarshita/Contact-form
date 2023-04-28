@@ -1,0 +1,11 @@
+1. Single page home application.
+2. Responsive website
+3. Header
+4. Footer 
+5. Slider
+6. Contact us form
+
+the input texts such as name email and phone no are required.
+
+
+
